@@ -1,5 +1,8 @@
 # proxy_ip_pool
 
+从https://github.com/pangxiaobin/proxy_ip_pool.git 仓库克隆下来的，然后加了一些自己的修改
+（以百度为测试url）
+
 说明：使用django框架和requests库搭建
 可以访问http://47.102.205.85:9000/ 显示示例 渣渣云服务器，里面只有有测试数据，勿大量请求。
 
